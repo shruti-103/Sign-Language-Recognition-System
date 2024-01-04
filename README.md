@@ -1,1 +1,1 @@
-# Accessing-visual-information-for-the-people-with-visual-disability
+# SIGN LANGUAGE RECOGNITION SYSTEM
